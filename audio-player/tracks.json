@@ -1,0 +1,20 @@
+[
+    {
+        "artist": "Placebo",
+        "title": "The never-ending why",
+        "url": "assets/audio/Placebo - The Never-ending Why.mp3",
+        "img": "assets/img/placebo.jpg"
+    },
+    {
+        "artist": "Zaz",
+        "title": "Je veux",
+        "url": "assets/audio/Zaz - Je Veux.mp3",
+        "img": "assets/img/zaz.jpg"
+    },
+    {
+        "artist": "Amy MacDonald",
+        "title": "This is the life",
+        "url": "assets/audio/Amy MacDonald - This Is The Life.mp3",
+        "img": "assets/img/macdonald.jpg"
+    }
+]
